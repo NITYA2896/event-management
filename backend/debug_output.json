@@ -1,0 +1,22 @@
+{
+  "clubs": [
+    {
+      "id": "698d9aa60998c21ce6e8e084",
+      "name": "ACM club",
+      "createdBy": "698b17efb091e38ebdf99f64"
+    },
+    {
+      "id": "698d9af40998c21ce6e8e08d",
+      "name": "ACM  student chapter club",
+      "createdBy": "698b17efb091e38ebdf99f64"
+    }
+  ],
+  "users": [
+    {
+      "id": "698b17efb091e38ebdf99f64",
+      "name": "pranathi",
+      "email": "pranathi.23bce20227@vitapstudent.ac.in",
+      "clubId": null
+    }
+  ]
+}
